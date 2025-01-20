@@ -1,5 +1,17 @@
 # myst-to-typst
 
+## 0.0.30
+
+### Patch Changes
+
+- 74e96e10: Support non-rgb colors in table cells
+- 74e96e10: Fix containers with tables inside divs
+- 7f29af8a: New lines in lists are not written to typst
+- Updated dependencies [415ed138]
+  - myst-frontmatter@1.7.7
+  - myst-common@1.7.7
+  - myst-spec-ext@1.7.7
+
 ## 0.0.29
 
 ### Patch Changes
