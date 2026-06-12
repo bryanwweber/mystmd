@@ -1,5 +1,12 @@
 # myst-config
 
+## 1.10.1
+
+### Patch Changes
+
+- myst-common@1.10.1
+- myst-frontmatter@1.10.1
+
 ## 1.10.0
 
 ### Minor Changes

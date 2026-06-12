@@ -1,5 +1,18 @@
 # myst-transforms
 
+## 1.3.51
+
+### Patch Changes
+
+- 3252535: Allow `grid` directives to be used in `figure` directives
+- Updated dependencies [029025f]
+- Updated dependencies [a540867]
+  - myst-spec@0.0.6
+  - myst-common@1.10.1
+  - myst-spec-ext@1.10.1
+  - myst-frontmatter@1.10.1
+  - myst-to-html@1.7.4
+
 ## 1.3.50
 
 ### Patch Changes
