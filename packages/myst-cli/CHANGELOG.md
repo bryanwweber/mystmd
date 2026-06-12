@@ -1,5 +1,28 @@
 # myst-cli
 
+## 1.10.2
+
+### Patch Changes
+
+- Updated dependencies [029025f]
+- Updated dependencies [a540867]
+- Updated dependencies [3252535]
+- Updated dependencies [12f4721]
+  - myst-spec@0.0.6
+  - myst-transforms@1.3.51
+  - myst-execute@0.4.1
+  - myst-common@1.10.1
+  - myst-ext-proof@1.0.13
+  - myst-parser@1.7.4
+  - myst-spec-ext@1.10.1
+  - myst-to-docx@1.0.17
+  - myst-to-jats@1.0.36
+  - tex-to-myst@1.0.47
+  - myst-config@1.10.1
+  - myst-frontmatter@1.10.1
+  - myst-to-tex@1.0.47
+  - myst-migrate@1.10.2
+
 ## 1.10.1
 
 ### Patch Changes

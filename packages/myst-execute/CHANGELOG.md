@@ -1,5 +1,12 @@
 # myst-execute
 
+## 0.4.1
+
+### Patch Changes
+
+- 12f4721: Fix dependencies / types
+  - myst-common@1.10.1
+
 ## 0.4.0
 
 ### Minor Changes

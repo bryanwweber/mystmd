@@ -1,0 +1,8 @@
+# myst-spec
+
+## 0.0.6
+
+### Patch Changes
+
+- 029025f: Drop JSON Schema pipeline in favour of exported TypeScript
+- a540867: Remove old docs for myst-spec

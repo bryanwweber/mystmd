@@ -1,5 +1,16 @@
 # myst-to-docx
 
+## 1.0.17
+
+### Patch Changes
+
+- Updated dependencies [029025f]
+- Updated dependencies [a540867]
+  - myst-spec@0.0.6
+  - myst-common@1.10.1
+  - myst-spec-ext@1.10.1
+  - myst-frontmatter@1.10.1
+
 ## 1.0.16
 
 ### Patch Changes
